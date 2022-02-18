@@ -26,8 +26,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-mahajan&" alt="rohan-mahajan" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-mahajan&show_icons=true&locale=en&layout=compact" alt="rohan-mahajan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-mahajan&show_icons=true&locale=en" alt="rohan-mahajan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-mahajan&" alt="rohan-mahajan" /></p>
