@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Mahajan</h1>
-<h3 align="center">A CSE(crazy-spirited-efficacious) Fellow<:)></h3>
+<h3 align="center">A CSE Fellow<:)></h3>
 
-- 🌱 I’m currently learning **python-django**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohan-Mahajan](https://github.com/Rohan-Mahajan)
 
